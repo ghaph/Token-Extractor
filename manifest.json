@@ -1,0 +1,18 @@
+{
+	"manifest_version": 3,
+	"name": "Token Extractor",
+	"version": "1.0",
+	"description": "Easily retrieve tokens from Twitter, Discord, Soundcloud, Twitch and GitHub",
+	"permissions": ["cookies", "tabs", "scripting"],
+	"action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"host_permissions": ["https://*.twitter.com/", "https://*.github.com/", "https://*.soundcloud.com/", "https://*.discord.com/", "https://*.twitch.tv/"]
+}
