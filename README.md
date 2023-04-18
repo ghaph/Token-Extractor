@@ -4,7 +4,7 @@ A simple Chrome extension to easily retrieve authentication tokens from Twitter,
 
 ## Features
 
-- Automatically detects the website you're currently browsing and displays the corresponding authentication cookie.
+- Automatically detects the website you're currently browsing and displays the corresponding authentication token.
 - Supports Twitter, Discord, Twitch, Soundcloud, and GitHub.
 - One-click copy button to copy the authentication token
    to your clipboard.
